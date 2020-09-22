@@ -2,37 +2,37 @@
   ![License: MIT License](https://img.shields.io/badge/License-MIT License-brightgreen.svg)
   
   
-  ## Title
+  # Title
   Good ReadMe
 
-  ## Table of Contents
-  . [Description](#description)
-  . [Installation](#installation)
-  # [Usage](#usage)
-  # [Contribution](#contribution)
-  # [Test](#test)
-  # [License](#license)
-  # [Any Question](#questions)
+  # Table of Contents
+  ## [Description](#description)
+  ## [Installation](#installation)
+  ## [Usage](#usage)
+  ## [Contribution](#contribution)
+  ## [Test](#test)
+  ## [License](#license)
+  ## [Any Question](#questions)
 
-  ## Description
+  # Description
   This project is to design a web application that can enter your information about your project.
   
-  ## Installation
+  # Installation
   You will have to clone this repository in your computer to see how it works.
   
-  ## Usage
+  # Usage
   I will explain later
   
-  ## Contribution
+  # Contribution
   Any contribution by anyone will be highly appreciated. So be my guest to improve anything you want to make.
   
-  ## Test
+  # Test
   After you clone this repository, go the the respective folder and open terminal or gitbash to run the application.
   
-  ## License
+  # License
   MIT License
 
-  ## Contact if you have any questions:
+  # Contact if you have any questions:
 
   # Questions
   How does this work?
