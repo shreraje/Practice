@@ -1,39 +1,46 @@
-# Good ReadMe
-  ![License: MIT License](https://img.shields.io/badge/License-MIT License-brightgreen.svg)
-  
-  
-  # Title
-  Good ReadMe
+# ads
 
-  # Table of Contents
-  ## [Description](#description)
-  ## [Installation](#installation)
-  ## [Usage](#usage)
-  ## [Contribution](#contribution)
-  ## [Test](#test)
-  ## [License](#license)
-  ## [Any Question](#questions)
+  ![License: GNU AGPLv3.0](https://img.shields.io/badgeLicense-${licLogo}-brightgreen.svg)]
+  
+  
+  ## Title
+  ads
 
-  # Description
-  This project is to design a web application that can enter your information about your project.
-  
-  # Installation
-  You will have to clone this repository in your computer to see how it works.
-  
-  # Usage
-  I will explain later
-  
-  # Contribution
-  Any contribution by anyone will be highly appreciated. So be my guest to improve anything you want to make.
-  
-  # Test
-  After you clone this repository, go the the respective folder and open terminal or gitbash to run the application.
-  
-  # License
-  MIT License
+  ## Table of Contents
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Contribution](#contribution)
+  * [Test](#test)
+  * [License](#license)
+  * [Any Question](#questions)
 
-  # Contact if you have any questions:
+  ## Description
+  adsf
+  
+  ## Installation
+  asdf
+  
+  ## Usage
+  asdf
+  
+  ## Contribution
+  asdf
+  
+  ## Test
+  asdf
+  
+  ## License
+  GNU AGPLv3.0
 
+  ## Contact if you have any questions:
+
+  # Questions
+  asd
+  Email:
+  asdf
+  GitHub Link:
+  asdf
   # Questions
   How does this work?
   Email:
