@@ -1,10 +1,10 @@
-# Enter your title of the project here!
+# Enter your project title here!
 
 <img src="https://img.shields.io/badge/License-Apache License v2.0-blue.svg" alt="License image of Apache License v2.0" />
   
   
 ## Description
-Enter the description of your project here!
+Enter project description here!
 
 ## Table of Contents
 * [Description](#description)
@@ -16,16 +16,16 @@ Enter the description of your project here!
 * [Any Question](#questions)
 
 ## Installation
-Enter all the instruction needed to install your project in users computer here!
+Enter installation instruction for your project here!
 
 ## Usage
-Enter usage details here!
+Enter the usage details for your project here!
 
 ## Contribution
-Enter and specify who can contribute for your project !
+Enter or specify who can contribute for your project!
 
 ## Test
-Enter any test instructions to test your project here!
+Enter the test instruction for your project here!
 
 ## License
 Apache License v2.0
@@ -33,10 +33,10 @@ Apache License v2.0
 ## How to contact me with any question:
 
 Questions:
-Enter any questions about the issues you have on this project!
+Enter any questions you have for this project!
 
 Email:
-Enter your email address!
+rajendrashr@gmail.com
 
 GitHub Link:
-https://github.com/Enter your github username here!
+https://github.com/shreraje
