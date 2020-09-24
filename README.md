@@ -1,10 +1,10 @@
-# asdf
+# asdfds
   
-    ![License: GNU AGPLv3.0]<img alt="license" src="https://img.shields.io/badge/License-GNU AGPLv3.0-brightgreen.svg" />
+    ![License: MIT License]<img alt="license" src="https://img.shields.io/badge/License-MIT License-brightgreen.svg" />
   
   
   ## Title
-  asdf
+  asdfds
 
   ## Table of Contents
   * [Description](#description)
@@ -16,7 +16,7 @@
   * [Any Question](#questions)
 
   ## Description
-  asdf
+  asdfasd
   
   ## Installation
   asdf
@@ -31,7 +31,7 @@
   asdf
   
   ## License
-  GNU AGPLv3.0
+  MIT License
 
   # Contact if you have any questions:
 
