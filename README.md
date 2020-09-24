@@ -1,6 +1,6 @@
 # dsfasd
 
-<img src="https://img.shields.io/badge/License-MPL 2.0-blue.svg" alt="License image of MPL 2.0" />
+<img src="https://img.shields.io/badge/License-MIT License-blue.svg" alt="License image of MIT License" />
   
   
 ## Description
