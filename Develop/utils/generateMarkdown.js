@@ -35,7 +35,7 @@ ${data.license}
 
 ## How to contact me with any question:
 
-## Questions
+Questions:
 ${data.questions}
 
 Email:
