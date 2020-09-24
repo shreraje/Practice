@@ -1,6 +1,6 @@
 # dsfasd
 
-<img src="https://img.shields.io/badge/License-GNU AGPLv3.0-blue.svg" alt="License image of GNU AGPLv3.0" />
+<img src="https://img.shields.io/badge/License-MPL 2.0-blue.svg" alt="License image of MPL 2.0" />
   
   
 ## Description
