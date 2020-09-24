@@ -1,10 +1,10 @@
-# dsfasd
+# Enter your project title here!
 
-<img src="https://img.shields.io/badge/License-MIT License-brightgreen.svg" alt="License image of MIT License" />
+<img src="https://img.shields.io/badge/License-Apache License v2.0-blue.svg" alt="License image of Apache License v2.0" />
   
   
 ## Description
-asdfsdaf
+Enter your project description here!
 
 ## Table of Contents
 * [Description](#description)
@@ -15,31 +15,28 @@ asdfsdaf
 * [License](#license)
 * [Any Question](#questions)
 
-## Description
-asdfsdaf
-
 ## Installation
-asdfasdf
+Enter your installation instruction here!
 
 ## Usage
-asdfasdf
+Enter your usage details for your project here!
 
 ## Contribution
-asdfasdf
+Please enter who can contribute for your project here!
 
 ## Test
-asdfasdf
+Enter how you would  test your project here!
 
 ## License
-GNU AGPLv3.0
+Apache License v2.0
 
 # Contact if you have any questions:
 
 ## Questions
-asdfasdf
+Enter any questions you may have!
 
 Email:
-asdfsadf
+Enter your email address if you would like to contact here!
 
 GitHub Link:
-asdfasdf
+Enter your GitHub username here!
